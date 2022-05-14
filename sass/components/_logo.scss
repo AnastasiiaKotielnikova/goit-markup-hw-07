@@ -1,0 +1,11 @@
+.logo {
+    margin-right: 93px;
+    color: var(--body-color);
+
+    font-family: 'Raleway', sans-serif;
+    @include font(700, 26px, 1.19, 0.03em);
+}
+
+span {
+    color: var(--accent-color);
+}
